@@ -69,7 +69,7 @@ highlight VisualNOS     gui=bold,underline guifg=fg guibg=bg
 highlight WarningMsg    gui=bold guifg=FireBrick1 guibg=bg
 highlight WildMenu      gui=bold guibg=Chartreuse guifg=Black
 
-highlight Comment       gui=None guifg=#507080
+highlight Comment       gui=None guifg=#eee8aa
 highlight Constant      guifg=cyan3 guibg=bg
 highlight String        gui=None guifg=turquoise2 guibg=bg
 highlight Number        gui=None guifg=Cyan guibg=bg
